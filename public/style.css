@@ -1,0 +1,18 @@
+html, .navbar{
+    background-color: #FAFAFA;
+}
+.hero-body, .container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.hero-body{
+    height: 91vh;
+}
+button a{
+    color: white;
+}
+button a:hover{
+    color: white;
+}
